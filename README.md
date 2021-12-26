@@ -20,6 +20,6 @@
 这个工具是为了实现显示器流光溢彩功能的屏幕拾色软件
 [Prismartik](https://github.com/woodenshark/Lightpack/releases)
 
-## 效果延时视频
+## 演示视频
 
 [流光溢彩效果演示](https://www.bilibili.com/video/BV1zr4y1k7xZ?share_source=copy_web)
