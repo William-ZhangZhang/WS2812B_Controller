@@ -9,10 +9,10 @@
 
 ## 2-Firmware
 
-### - WLED
+### 2.1 WLED
 [WLED](https://github.com/Aircoookie/WLED)
 
-### - Homekit-WS2812
+### 2.2 Homekit-WS2812
 [Homekit-WS2812](https://github.com/HomeKidd/Homekit-WS2812B-controller)
 
 ## 3-Tools
